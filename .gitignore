@@ -7,3 +7,4 @@
 /doc/emms.info
 /doc/emms.html
 /lisp/emms-auto.el
+*.patch
